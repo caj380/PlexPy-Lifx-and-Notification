@@ -12,10 +12,10 @@ And a script run using these commands:
 python Command.py "SHIELD Android TV" "caj380" "Stop" "Iron man 3"
 or
 python Command.py "SHIELD Android TV" "caj380" "Pause" "Iron man 3"  
-would dim the lights.
+would brighten the lights.
 
 And a script run using these commands:
 python Command.py "SHIELD Android TV" "caj380" "Play" "Iron man 3"
 or
 python Command.py "SHIELD Android TV" "caj380" "Resume" "Iron man 3"  
-would brighten the lights.
+would dim the lights.
